@@ -24,7 +24,7 @@ TODO
 自回归模型，利用前期若干随机变量的先行组合描述之后随机变量的模型
 <img src="http://chart.googleapis.com/chart?cht=tx&chl= $x_{t}=\phi_{0}+\phi_{1}x_{t-1}+\phi_{2}x_{t-2}+\dots+\phi_{p}x_{t-p}+a_{t}$">
 <img src="http://www.forkosh.com/mathtex.cgi? $x_{t}=\phi_{0}+\phi_{1}x_{t-1}+\phi_{2}x_{t-2}+\dots+\phi_{p}x_{t-p}+a_{t}$">
-<img src="http://www.hx1998.club/graduation_project/images/AR(p).PNG">
+<img src="http://www.hx1998.club/graduation_project/images/AR.PNG">
 #### MA
 #### ARMA
 #### ARIMA
