@@ -1,2 +1,16 @@
-# graduation-project
-the respository is built for my graduation project
+# 毕业设计
+##### 碎碎念
+老师很早就布置下了毕业设计的题目，由于种种原因（主要是我懒），一直未系统的开始进行对毕业设计题目的思考，现在时间也拖得很晚了，再不整体规划毕设就要耽误了。
+## 目标
+
+## 内容
+## 分析方法
+### 传统分析方法
+#### AR
+#### MA
+#### ARMA
+#### ARIMA
+### 机器学习分析方法
+#### tensorflow结合LSTM
+## 初步结果
+## 思考总结
